@@ -3,7 +3,7 @@
    Güçlü Baro · Güçlü Avukat
    Proje Geliştirme Ekibi:
    Av. Hayri Efe SAVRAN
-   Mehmet TÜRKMEN
+   Av. Mehmet TÜRKMEN
    Av. Gülçin KELEŞ
    ============================================ */
 
