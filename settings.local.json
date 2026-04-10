@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc \"C:/Users/Fujitsi/Downloads/PROJE GELİŞTİRME EKİBİ -ANKARA BAROSU MOBİL UYGULAMASI PROJESİ.docx\" -o /tmp/proje.md)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python -c \"import docx; doc=docx.Document\\(r'C:/Users/Fujitsi/Downloads/PROJE GELİŞTİRME EKİBİ -ANKARA BAROSU MOBİL UYGULAMASI PROJESİ.docx'\\); [print\\(p.text\\) for p in doc.paragraphs]\")",
+      "Bash(python)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
